@@ -1,0 +1,13 @@
+#spanDate {
+    height: 35px;
+    margin: 0 auto;
+    width: 100%;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #bcacac;
+    border-radius: 5px;
+    padding: 3 6px;
+    color: #ffffff;
+}
